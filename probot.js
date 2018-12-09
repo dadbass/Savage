@@ -2157,14 +2157,6 @@ const fetchVideoInfo = require('youtube-info');
 const YouTube = require('simple-youtube-api');
 const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
 const queue = new Map();
-/*
-البكجآت
-npm install discord.js
-npm install get-youtube-id
-npm install youtube-info
-npm install simple-youtube-api
-npm install queue
-*/
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
@@ -4988,4 +4980,4 @@ client.on('message', message => {
 
 
 
-client.login('NTIxNDExODQyMjIwNzUyOTE3.Du8CTg.nIpzv947uDPGHh2eVlFMLufstGg')
+client.login("NTIxNDExODQyMjIwNzUyOTE3.Du8jeg.VppbZ-IKsD0xJ4EZOCskbBWV3QI")
