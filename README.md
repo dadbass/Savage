@@ -1,1 +1,2 @@
-# Savage
+# Probot ✨
+Epic Discord Bot
